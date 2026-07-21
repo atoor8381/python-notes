@@ -31,3 +31,12 @@ print(y) # y is still pointing to the old 10 object and the a is pointing to the
 
 
 # but in the cases of the list we can make changes to the old objects...
+
+num = 1 # object of 1 is created and the reference is given to num.
+numtwo = 2 # object of 2 is created and the reference is given to numtwo.
+ 
+num = num + numtwo # now in this case the new object of 3 is created and the reference is given to num.
+
+print (num)
+
+
