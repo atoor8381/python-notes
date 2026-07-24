@@ -40,3 +40,7 @@ num = num + numtwo # now in this case the new object of 3 is created and the ref
 print (num)
 
 
+listone = [1,2,3]
+listtwo = [1,2,3]
+listone == listtwo # this will return true because the values are same but the references are different.
+listone is listtwo # this will return false because the references are different.

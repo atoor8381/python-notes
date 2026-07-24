@@ -15,3 +15,6 @@
 # A tuple in Python is an ordered, immutable collection of elements that can store multiple data types.
 
 # we can also work on the files with the python directly we using the files datatype in the python.
+
+ 
+# we should make sure we add two variables with the same datatypes otherwise it might cause confusion 
